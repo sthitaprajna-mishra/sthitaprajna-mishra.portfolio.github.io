@@ -20,7 +20,7 @@ body {
 }
 	#nav li {
 		width: 60px; height: 33px; float: left; padding: 11px 0 0 0;
-		font-size: 24px; margin: 10px; list-style: none; transition: .5s; border-radius: 8px;
+		font-size: 24px; margin: 10px; list-style: none; transition: .5s; border-radius: 8px; text-align:center;
 	   }
 		#nav li:nth-child(1) {
 			margin: 0 40px 20px 0;
@@ -62,5 +62,5 @@ body {
 }
 
 #footer{
-    font: 20px Georgia, Sans-Serif; color: #000000; letter-spacing: 2px; margin: 0 0 20px 0; text-align: center;
+    font: 20px Georgia, Sans-Serif; color: #000000; letter-spacing: 2px; margin: 0 0 20px 0;
 }
