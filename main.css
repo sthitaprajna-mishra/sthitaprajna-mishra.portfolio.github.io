@@ -19,7 +19,7 @@ body {
 	  
 }
 	#nav li {
-		width: 60px; height: 33px; float: left; padding: 11px 0 0 0;
+		width: 60px; height: 33px; float: left; padding: 11px 0 3px 0;
 		font-size: 24px; margin: 10px; list-style: none; transition: .5s; border-radius: 8px; text-align:center;
 	   }
 		#nav li:nth-child(1) {
